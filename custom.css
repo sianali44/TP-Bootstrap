@@ -1,0 +1,46 @@
+ /*======================= GENERAL=====================*/ 
+ /*----- textes -----*/
+
+
+  .sun-majuscule{
+
+  }
+  
+  /*----- couleurs -----*/
+  .sun-yellow{
+    color: #ffc000;
+}
+  
+ /*======================= HEADER=====================*/ 
+ /*----- topnav -----*/
+
+
+  /*----- nav -----*/
+
+
+   /*----- carousel -----*/
+  /* Make the image fully responsive */
+  .carousel-inner img {
+    width: 100%;
+    height: 100%;
+  }
+
+
+   /*======================= MAIN=====================*/ 
+   /*section bienvenue*/
+   #bienvenue .sun-carte{
+       background-color: #454545;
+
+}
+#bienvenue .sun-icon{
+ background-color: #fff;
+ height: 80px;
+ width: 80px;
+
+}
+   
+   #bienvenue i{
+       font-size: 30px;
+   }
+
+   
